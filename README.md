@@ -1,4 +1,4 @@
-<h1>Password Generator (Python)</h1>
+<h1>Password Generator (Proof of Concept)</h1>
 This is a very simple Python program that generates secure passwords based on your preferences. It asks for the desired length of the password, complexity level, and whether you want to include special characters.
 
 <h2>How to Use</h2>
